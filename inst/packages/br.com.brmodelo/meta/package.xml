@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<Package>
+    <DisplayName>brModelo</DisplayName>
+    <Description>Ferramenta para modelagem ER em bancos de dados.</Description>
+    <Version>3.2</Version>
+    <ReleaseDate>2019-01-10</ReleaseDate>
+    <Name>br.com.brmodelo</Name>
+    <Licenses>
+        <License name="License Agreement" file="LICENSE" />
+    </Licenses>
+    
+    
+    
+    
+    
+    <SortingPriority>123</SortingPriority>
+    <UpdateText>This changed compared to the last release</UpdateText>
+    <Default>true</Default>
+    <ForcedInstallation>false</ForcedInstallation>
+    <Essential>false</Essential>
+    <Replaces>com.vendor.root.component2old</Replaces>
+</Package>

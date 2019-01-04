@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Installer>
+    <Name>brModelo</Name>
+    <Version>3.2</Version>
+    <Title>brModelo</Title>
+    <Publisher>brModelo - Carlos Henrique Cândido</Publisher>
+    <StartMenuDir>brModelo</StartMenuDir>
+    <TargetDir>@ApplicationsDir@/brModelo</TargetDir>
+</Installer>
