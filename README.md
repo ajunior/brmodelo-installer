@@ -1,2 +1,2 @@
-# brmodelo-installer
-Instalador para o brModelo.
+# brModelo Installer
+Instalador para o [brModelo](https://github.com/chcandido/brmodelo).
