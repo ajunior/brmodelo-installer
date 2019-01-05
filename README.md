@@ -12,7 +12,7 @@ O Arquivo de ajuda da ferramenta é instalado automaticamente durante o processo
 ## Java
 O brModelo é desenvolvido em [Java](http://www.java.com) 8, logo é necessário a instalação do Java Runtime Enviroment (JRE) 1.8 para execução da aplicação. A instalação do Java pode ser feita direto do instalador do brModelo.
 
-# Qt Installer Framework
+# Qt Installer Framework (IFW)
 O instalador foi desenvolvido usando a versão [3.0.6](https://download.qt.io/official_releases/qt-installer-framework/3.0.6/) do Qt Installer Framework.
 
 # Workflow do Instalador
@@ -38,6 +38,23 @@ Este instalador segue um fluxo simples de telas, que permitem a escolha do diret
                 ├── package.xml       # Load and stress tests
 
 **OBS:** Arquivos não citados acima não são utilizados para confecção do instalador.
+
+## Gerando arquivos 7z
+O instalador utiliza arquivos zipados no formato [7z](). Então é preciso que os componentes que serão instalados estejam zipados nesse formato. O próprio Qt IFW traz uma ferramenta chamada ```archivegen``` para criação desses arquivos. 
+
+```bash
+# archivegen <destino.7z> <arquivo(s) que será(ão) zipado(s)>
+$ archivegen brmodelo.7z .
+```
+
+## Gerando o instalador
+
+```bash
+# archivegen <destino.7z> <arquivo(s) que será(ão) zipado(s)>
+$ C:\Qt\QtIFW-3.0.4\bin\archivegen.exe C:\Projects\brModelo\packages\br.com.brmodelo\data\brmodelo.7z C:\Projects\brModelo\packages\br.com.brmodelo\data\brModelo.jar
+```
+
+C:\Qt\QtIFW-3.0.4\bin\archivegen.exe C:\Projects\brModelo\packages\br.com.brmodelo\data\brmodelo.7z C:\Projects\brModelo\packages\br.com.brmodelo\data\brModelo.jar
 
 # Download (Executável)
 
