@@ -8,10 +8,13 @@ Instalador para o [brModelo](https://github.com/chcandido/brmodelo), desenvolvid
 
 O instalador foi devidamente testado nas seguintes palataformas: ```Windows 10```, ```Ubuntu 18.04``` e ```macOS X (Mojave)```. Outras opções de instalações, via gerenciador de pacotes, serão lançadas posteriormente, para Chocolatey, DNF, APT e Homebrew.
 
+## Ajuda do brModelo
+O Arquivo de ajuda da ferramenta é instalado automaticamente durante o processo de instalação.
+
 # Download (Executável)
 
 | Arquivo | Plataforma | Release |
-| :---: | :---: | :---: |
+| :--- | :--- | :--- |
 | [brmodelo-320-inst.exe]() | Windows 10 | 20/01/2019 |
 | [brmodelo-320-inst.bin]() | GNU/Linux | 20/01/2019 |
 | [brmodelo-320-inst.dmg]() | macOS X | 20/01/2019 |
