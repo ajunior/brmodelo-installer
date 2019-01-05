@@ -24,7 +24,7 @@ Este instalador segue um fluxo simples de telas, que permitem a escolha do diret
 
     .
     ├── Config                        # Test files (alternatively `spec` or `tests`)
-    │   ├── config.xml                # Load and stress tests
+    │   └── config.xml                # Load and stress tests
     └── packages
         ├── br.com.brmodelo           # Load and stress tests
         |   ├── data                  # Load and stress tests
