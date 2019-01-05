@@ -20,6 +20,9 @@ O instalador foi desenvolvido usando a versão [3.0.6](https://download.qt.io/of
 | [brmodelo-320-inst.bin]() | GNU/Linux | 20/01/2019 |
 | [brmodelo-320-inst.dmg]() | macOS X | 20/01/2019 |
 
+# Contribuições
+A confecção deste instalador é uma tarefa bem simples, mas toda contribuição é válida. Bugs devem ser informados via [*issue*](https://github.com/ajunior/brmodelo-installer/issues), enquanto contribuições de código devem ser feitas via [*Pull Request*](https://github.com/ajunior/brmodelo-installer/pulls).
+
 # Autoria
 
 - A autoria do brModelo é de Carlos Henrique Cândido. O brModelo é licenciado pela GNU GPL v3.
