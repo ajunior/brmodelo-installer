@@ -25,4 +25,4 @@ A confecção deste instalador é uma tarefa bem simples, mas toda contribuiçã
 
 # Autoria
 Este instalador foi desenvolvido por Adjamilton Junior e licenciado pela [GNU General Public License v3.0]().
-- O Qt Installer Framework é de autoria da Qt Foundation e licenciado pela [GNU General Public License v3.0]().
+> O Qt Installer Framework é de autoria da Qt Foundation e licenciado pela [GNU General Public License v3.0]().
