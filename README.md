@@ -27,5 +27,5 @@ O instalador foi desenvolvido usando a versão [3.0.6](https://download.qt.io/of
 A confecção deste instalador é uma tarefa bem simples, mas toda contribuição é válida. Bugs devem ser informados via [*issue*](https://github.com/ajunior/brmodelo-installer/issues), enquanto contribuições de código devem ser feitas via **_Pull Request_**.
 
 # Autoria
-Este instalador foi desenvolvido por Adjamilton Junior e licenciado pela [GNU General Public License v3.0](LICENSE).
+Este instalador foi desenvolvido por Adjamilton Junior como parte integrande do projeto brModelo e licenciado pela [GNU General Public License v3.0](LICENSE).
 > O Qt Installer Framework é de autoria da Qt Foundation e licenciado sob a GNU General Public License v3.0. O brModelo é de autoria de Carlos Henrique Cândido e licenciado sob a GNU General Public License v3.0. Java é marca registrada da Oracle Inc.
