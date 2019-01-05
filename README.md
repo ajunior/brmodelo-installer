@@ -27,15 +27,15 @@ Este instalador segue um fluxo simples de telas, que permitem a escolha do diret
     │   ├── config.xml                # Load and stress tests
     └── packages
         ├── br.com.brmodelo           # Load and stress tests
-            ├── data                  # Load and stress tests
-                ├── brmodelo.7z       # Load and stress tests
-            ├── meta                  # Load and stress tests
-                ├── package.xml       # Load and stress tests
+        |   ├── data                  # Load and stress tests
+        |   |   ├── brmodelo.7z       # Load and stress tests
+        |   ├── meta                  # Load and stress tests
+        |   |   ├── package.xml       # Load and stress tests
         ├── com.java                  # Load and stress tests
             ├── data                  # Load and stress tests
-                ├── java.7z           # Load and stress tests
+            |   ├── java.7z           # Load and stress tests
             ├── meta                  # Load and stress tests
-                ├── package.xml       # Load and stress tests
+            |   ├── package.xml       # Load and stress tests
 
 **OBS:** Arquivos não citados acima não são utilizados para confecção do instalador.
 
