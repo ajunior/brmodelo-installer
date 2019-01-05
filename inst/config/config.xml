@@ -3,7 +3,8 @@
     <Name>brModelo</Name>
     <Version>3.2</Version>
     <Title>brModelo</Title>
-    <Publisher>brModelo - Carlos Henrique Cândido</Publisher>
+    <Publisher>brModelo</Publisher>
     <StartMenuDir>brModelo</StartMenuDir>
     <TargetDir>@ApplicationsDir@/brModelo</TargetDir>
+    <Logo>sect.jpg</Logo>
 </Installer>
