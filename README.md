@@ -15,10 +15,27 @@ O brModelo é desenvolvido em [Java](http://www.java.com) 8, logo é necessário
 # Qt Installer Framework
 O instalador foi desenvolvido usando a versão [3.0.6](https://download.qt.io/official_releases/qt-installer-framework/3.0.6/) do Qt Installer Framework.
 
-## Workflow do Instalador
-O instalador segue um fluxo simples de seis telas, que permitem a escolha do diretório onde a aplicação será instalada, o nome do grupo no menu iniciar (somente para Windows), aceitação da licença da aplicação e a seleção e instalação dos componentes da aplicação (incluindo JRE 1.8 - opcional), conforme ilustração abaixo:
+# Workflow do Instalador
+Este instalador segue um fluxo simples de telas, que permitem a escolha do diretório onde a aplicação será instalada, o nome do grupo no menu iniciar (somente para Windows), aceitação da licença da aplicação e a seleção e instalação dos componentes da aplicação (incluindo JRE 1.8 - opcional), conforme ilustração abaixo:
 
 ![](http://doc.qt.io/qtinstallerframework/images/ifw-user-flow-installing.png)
+
+## Estrutura de diretórios e arquivos
+
+    .
+    ├── Config                        # Test files (alternatively `spec` or `tests`)
+    │   ├── config.xml                # Load and stress tests
+    └── packages
+        ├── br.com.brmodelo           # Load and stress tests
+            ├── data                  # Load and stress tests
+                ├── brmodelo.7z       # Load and stress tests
+            ├── meta                  # Load and stress tests
+                ├── package.xml       # Load and stress tests
+        ├── com.java                  # Load and stress tests
+            ├── data                  # Load and stress tests
+                ├── java.7z           # Load and stress tests
+            ├── meta                  # Load and stress tests
+                ├── package.xml       # Load and stress tests
 
 # Download (Executável)
 
