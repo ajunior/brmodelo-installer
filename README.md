@@ -73,6 +73,6 @@ Este instalador foi desenvolvido por Adjamilton Junior como parte integrande do 
 
 # Changelog
 
-| Data | Versão | Descrição |
+| Versão | Data | Descrição |
 | :--- | :--- | :--- |
-| 20/01/2019 | 0.1 | Primeira versão pública do instalador, contendo a versão 3.20 do brModelo. |
+| 0.1 | 20/01/2019 | Primeira versão pública do instalador, contendo a versão 3.20 do brModelo. |
