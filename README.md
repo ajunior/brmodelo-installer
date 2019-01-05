@@ -56,14 +56,6 @@ $ C:\Qt\QtIFW-3.0.4\bin\archivegen.exe C:\Projects\brModelo\packages\br.com.brmo
 
 C:\Qt\QtIFW-3.0.4\bin\archivegen.exe C:\Projects\brModelo\packages\br.com.brmodelo\data\brmodelo.7z C:\Projects\brModelo\packages\br.com.brmodelo\data\brModelo.jar
 
-# Download (Executável)
-
-| Arquivo | Plataforma | Release |
-| :--- | :--- | :--- |
-| [brmodelo-320-inst.exe]() | Windows 10 | 20/01/2019 |
-| [brmodelo-320-inst.bin]() | GNU/Linux | 20/01/2019 |
-| [brmodelo-320-inst.dmg]() | macOS X | 20/01/2019 |
-
 # Contribuições
 A confecção deste instalador é uma tarefa bem simples, mas toda contribuição é válida. Bugs devem ser informados via [*issue*](https://github.com/ajunior/brmodelo-installer/issues), enquanto contribuições de código devem ser feitas via **_Pull Request_**.
 
