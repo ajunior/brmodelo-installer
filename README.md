@@ -37,6 +37,8 @@ Este instalador segue um fluxo simples de telas, que permitem a escolha do diret
             ├── meta                  # Load and stress tests
                 ├── package.xml       # Load and stress tests
 
+**OBS:** Arquivos não citados acima não são utilizados para confecção do instalador.
+
 # Download (Executável)
 
 | Arquivo | Plataforma | Release |
