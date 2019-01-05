@@ -15,7 +15,9 @@ O brModelo é desenvolvido em [Java](http://www.java.com) 8, logo é necessário
 # Qt Installer Framework
 O instalador foi desenvolvido usando a versão [3.0.6](https://download.qt.io/official_releases/qt-installer-framework/3.0.6/) do Qt Installer Framework.
 
-# Workflow do Instalador
+## Workflow do Instalador
+O instalador segue um fluxo simples de seis telas, que permitem a escolha do diretório onde a aplicação será instalada, o nome do grupo no menu iniciar (somente para Windows), aceitação da licença da aplicação e instalação dos componentes da aplicação (incluindo JRE 1.8 - opcional), conforme ilustração abaixo:
+
 ![](http://doc.qt.io/qtinstallerframework/images/ifw-user-flow-installing.png)
 
 # Download (Executável)
